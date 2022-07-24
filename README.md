@@ -18,6 +18,7 @@ This is a assignment given in **"JavaScript Full Stack Web Developer Bootcamp"**
 ## 📌 Overview
 
 <br>
+
 ![Screenshot](./assets/screenshot.png?raw=true "Template Screenshot")
 
 ## 📌 My process
